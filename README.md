@@ -1,4 +1,4 @@
 # My Thread
 
-![Screenshot](s3://personal-platform/device-2020-06-26-133348.png)
+![Image](s3://personal-platform/device-2020-06-26-133348.png)
  
